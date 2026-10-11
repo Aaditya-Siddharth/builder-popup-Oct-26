@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Companion",
+  "description": "An AI-powered cafe experience for customers and the cafe team with natural language ordering and intent-guided hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
